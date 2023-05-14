@@ -1,0 +1,6 @@
+version: "1.0.0"
+services:
+  quiz-app:
+    image: "mdsahiloss/quiz-app:latest"
+    ports:
+      - "3000:3000"
